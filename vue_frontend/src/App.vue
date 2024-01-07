@@ -9,7 +9,7 @@ import IconVue from "@/components/icons/IconVue.vue";
     <IconVue class="logo" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+      <HelloWorld msg="You did it, shhadrack!" />
       <hr style="height: 1rem;"/>
       <div>For more Vue integration tips and techniques, check out <b>Vue Demo</b> from the navigation menu above.</div>
     </div>

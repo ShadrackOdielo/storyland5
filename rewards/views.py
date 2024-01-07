@@ -1,5 +1,5 @@
 from decimal import Decimal
-from typing import Any, dict
+from typing import Any
 
 from django.contrib import messages
 from django.core.exceptions import SuspiciousOperation
